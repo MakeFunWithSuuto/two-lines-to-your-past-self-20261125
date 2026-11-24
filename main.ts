@@ -2,9 +2,9 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line1 =
-  'On the back porch in July, when Sam slides her notebook across the table, don\'t smirk and ask, "Who\'s going to read this?"';
+  'On the back porch in July, when your sister Sam slides her first story across the table, don\'t smirk and ask, "Who\'s going to read this?"';
 const line2 =
-  "She shuts it before your laugh even lands, burns the pages in the grill that night, and never lets you\u2014or anyone else\u2014read a word of hers again.";
+  "She closes the notebook before your laugh lands, burns it in the grill that night, and it is the last real thing she ever trusts you with.";
 
 const entry = `${line1}\n${line2}`;
 
